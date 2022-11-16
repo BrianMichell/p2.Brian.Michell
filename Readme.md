@@ -1,5 +1,5 @@
 ## Project 2 submission
-![Static image](.png?raw=true)
+![Static image](https://github.com/BrianMichell/p2.Brian.Michell/blob/master/p2.Brian.Michell.jpg?raw=true)
 
 My design focuses on at-a-glance usability for the user with all the information on the periphery. This makes it the most efficient at executing it's primary job of showing a reflection while also providing any information that the user may need.
 
